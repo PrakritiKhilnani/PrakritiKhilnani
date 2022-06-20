@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakriti Khilnani.
-- 👀 I’m interested in everything
+- 👀 I’m a Mechanical Engineering undergraduate
 - 🌱 I’m currently studying at NIT Raipur
 - 📚 I'm learning.
  <!--💞️ I’m looking to collaborate on ...
