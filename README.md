@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Prakriti Khilnani.
-- 👀 I’m a Mechanical Engineering undergraduate
-- 🌱 I’m currently studying at NIT Raipur
+- 👀 I’m a Mechanical Engineering undergraduate.
+- 🌱 I’m currently studying at NIT Raipur.
 - 📚 I'm learning.
+- 💞️ I'm currently learning about Machine Learning and Deep Learning.
+- 📫 You can reach to me at:  prakritikhilnani@outlook.com
  <!--💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
